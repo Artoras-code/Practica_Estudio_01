@@ -1,2 +1,3 @@
 # Practica_Estudio_01
-Evalucion 01 django 
+# Evalucion 01 django 
+# Vicente Torres
